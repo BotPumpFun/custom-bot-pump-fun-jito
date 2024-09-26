@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="http:/botpump.fun"><img src="https://botpumpfun.vercel.app/logo.webp" alt="Bot Pump.fun" width="200"></a>
+  <a href="http:/botpump.fun"><img src="https://botpump.fun/logo.webp" alt="Bot Pump.fun" width="200"></a>
   <br>
   Bot Pump.Fun
   <br>
