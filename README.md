@@ -45,8 +45,6 @@ To buy and build a application, you'll need contact us on [Telegram](https://t.m
 
 
 
-
-
 ## **Contact**
  
 > [botpump.fun](https://www.botpump.fun) &nbsp;&middot;&nbsp;
